@@ -1,0 +1,27 @@
+﻿@page
+@model WebApplication2.Pages.StudentModel
+@{
+
+}
+<style>
+    table,thead, th, tbody, tr, td {
+        border: 1px solid black;
+    }
+</style>
+
+<table>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Address</th>
+        </tr>
+@foreach(var item in @Model.Students){
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Address</td>
+            </tr>
+
+    
+}
+ </table>

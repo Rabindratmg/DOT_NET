@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.exe
+C:\Users\acer\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.deps.json
+C:\Users\acer\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.runtimeconfig.json
+C:\Users\acer\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.dll
+C:\Users\acer\source\repos\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.pdb
+C:\Users\acer\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.AssemblyInfo.cs
+C:\Users\acer\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.dll
+C:\Users\acer\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\refint\StudentApp.dll
+C:\Users\acer\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.pdb
+C:\Users\acer\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.genruntimeconfig.cache
+C:\Users\acer\source\repos\StudentApp\StudentApp\obj\Debug\net6.0\ref\StudentApp.dll

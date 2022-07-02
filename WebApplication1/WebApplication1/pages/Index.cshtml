@@ -1,0 +1,13 @@
+﻿@page
+@model WebApplication1.pages.IndexModel
+@{
+    var name = "college of applied bussiness";
+}
+<h1> College = @name </h1>
+
+<h1>  Address = @Model.address </h1>
+@foreach ( string item in @Model.emp){
+    <p>@item</p>
+    }
+
+    

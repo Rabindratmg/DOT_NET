@@ -1,0 +1,13 @@
+﻿@page
+@model WebApplication2.Pages.EmployeeModel
+@{
+    
+}
+
+@foreach (var item in @Model.emplist){
+    <p>@item.Id</p>
+    <p>@item.Name</p>
+    <p>@item.Address</p>
+}
+
+
